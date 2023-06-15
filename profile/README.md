@@ -25,11 +25,12 @@ Aplikasi ini dilatar belakangi dengan adanya isu sampah yang sangat meresahkan b
 - Fitur Pesanan
 - Fitur Pesan Masuk
 - Profile
+- Fitur Market Place
 
 ### Fitur Wajib
 - Login User
 - Registrasi User
-- Scan Sampah
+- Scan Jenis Sampah
 - Jual Sampah
 
 ### Minimum Requirement & Submit Idea for Android
@@ -59,7 +60,14 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/hilalhmdy"><img src="https://avatars.githubusercontent.com/u/68505934?s=96&v=4" width="100px;" alt=""/><br /><sub><b>M Hilal Alhamdy</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
     <td align="center"><a href="https://github.com/Michael-Owen-19"><img src="https://avatars.githubusercontent.com/u/68501676?v=4" width="100px;" alt=""/><br /><sub><b>Michael Owen</b></sub></a><br /><p style="font-size:10px">Android Developer</p></td>
   </tr>
-
+  <tr>
+    <td align="center"><a href="https://github.com/AlfandaviAU"><img src="https://avatars.githubusercontent.com/u/64778810?v=4" width="100px;" alt=""/><br /><sub><b>M Alfandavi Aryo Utomo</b></sub></a><br /><p style="font-size:10px">Machine Learning</p></td>
+    <td align="center"><a href="https://github.com/labibs30"><img src="https://avatars.githubusercontent.com/u/96496752?v=4" width="100px;" alt=""/><br /><sub><b>M Labib Alfaraby</b></sub></a><br /><p style="font-size:10px">Machine Learning</p></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Leprah"><img src="https://avatars.githubusercontent.com/u/86406154?v=4" width="100px;" alt=""/><br /><sub><b>Alief Rahman Hakim</b></sub></a><br /><p style="font-size:10px">Cloud Computing</p></td>
+    <td align="center"><a href="https://github.com/FairuzAzka"><img src="https://avatars.githubusercontent.com/u/90242998?v=4" width="100px;" alt=""/><br /><sub><b>Fairuz Azka M</b></sub></a><br /><p style="font-size:10px">Cloud Computing</p></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
@@ -67,5 +75,5 @@ Thanks goes to these wonderful people
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 
