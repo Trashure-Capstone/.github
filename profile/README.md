@@ -1,5 +1,5 @@
 # Trashure
-![alt text](https://github.com/Trashure-Capstone/.github/blob/main/trashureLogo.png?raw=true)
+![Trashure](https://github.com/Trashure-Capstone/.github/blob/main/profile/trashureLogo.png)
 
 ## _Product-Based Capstone_
 
