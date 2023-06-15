@@ -1,5 +1,5 @@
 # Trashure
-![alt text](https://github.com/Trashure-Capstone/.github/Screen Shot 2023-06-13 at 00.38.47.png)
+![alt text](https://github.com/Trashure-Capstone/.github/trashureLogo.png)
 
 ## _Product-Based Capstone_
 
