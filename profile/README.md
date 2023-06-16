@@ -39,6 +39,9 @@ The research questions that we aim to address are: Can we develop a mobile appli
 - Camera Feature to Scan
 - Google Maps Feature to pick Address
 
+### Trashure API
+[a link](https://documenter.getpostman.com/view/20046004/2s93shz9bv)
+
 ## Contributors ✨
 Thanks goes to these wonderful people
 
