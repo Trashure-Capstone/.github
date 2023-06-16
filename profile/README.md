@@ -10,32 +10,32 @@ Water, Forest, & Natural Resource
 Trashure
 
 #### Background :
-Aplikasi ini dilatar belakangi dengan adanya isu sampah yang sangat meresahkan bagi masyarakat Indonesia ...
+
 
 #### Main Purpose
-```Membuat aplikasi Android Mobile yang menyediakan fitur scan sampah , kemudian user dapat menjual sampah mereka agar mendapatkan keuntungan dari penjualan sampahnya```
+```Creating a mobile application that provides a waste scanning feature, allowing users to sell their waste and profit from it. This will ultimately motivate people to sort and recycle their waste, leading to a reduction in waste pollution in Indonesia.```
 
 ### Semua Fitur Aplikasi
-- Login User
-- Registrasi User
-- Fitur Berita
-- Fitur Aktifitas
-- Scan Sampah
-- Jual Sampah
-- Fitur Pesanan
-- Fitur Pesan Masuk
+- Login
+- Register
+- News List
+- Activity List
+- Scan Trash
+- Sell Trash
+- Order
+- Message
 - Profile
-- Fitur Market Place
+- Marketplace
 
 ### Fitur Wajib Aplikasi
-- Login User
-- Registrasi User
-- Scan Jenis Sampah
-- Jual Sampah
+- Login
+- Register
+- Scan Trash
+- Sell Trash
 
 ### Fitur Tambahan Android
-- Menggunakan Fitur Camera
-- Fitur Google Maps
+- Camera Feature to Scan
+- Google Maps Feature to pick Address
 
 ## Contributors ✨
 Thanks goes to these wonderful people
