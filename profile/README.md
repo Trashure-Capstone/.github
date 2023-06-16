@@ -13,7 +13,7 @@ Trashure
 Aplikasi ini dilatar belakangi dengan adanya isu sampah yang sangat meresahkan bagi masyarakat Indonesia ...
 
 #### Main Purpose
-```Membuat aplikasi mobile yang menyediakan fitur scan sampah, kemudian user dapat menjual sampah mereka agar mendapatkan keuntungan dari penjualan sampahnya```
+```Membuat aplikasi Android Mobile yang menyediakan fitur scan sampah , kemudian user dapat menjual sampah mereka agar mendapatkan keuntungan dari penjualan sampahnya```
 
 ### Semua Fitur Aplikasi
 - Login User
@@ -27,27 +27,15 @@ Aplikasi ini dilatar belakangi dengan adanya isu sampah yang sangat meresahkan b
 - Profile
 - Fitur Market Place
 
-### Fitur Wajib
+### Fitur Wajib Aplikasi
 - Login User
 - Registrasi User
 - Scan Jenis Sampah
 - Jual Sampah
 
-### Minimum Requirement & Submit Idea for Android
-
-| Objectives |  |
-| ------ | ------ |
-| Design | Human Interface Guidelines Android |
-| Design Pattern | MVVM |
-| Component | Custom |
-| Testing | Unit testing |
-| Output Deliverable | Package Aplikasi (.apk atau .aab) |
-
-### Additional Features Android
-- Menggunakan ﬁtur push notiﬁcation
-- Fitur biometric untuk login (UI dibebaskan)
-- Menggunakan ﬁtur kamera
-- Menggunakan navigation component
+### Fitur Tambahan Android
+- Menggunakan Fitur Camera
+- 
 
 ## Contributors ✨
 Thanks goes to these wonderful people
