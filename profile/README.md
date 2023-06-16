@@ -10,7 +10,9 @@ Water, Forest, & Natural Resource
 Trashure
 
 #### Background :
+In 2021 Indonesia ranked 5th in the “Top 10 Countries that Release the Most Plastic into the Ocean” (source: worldpopulationreview.com). Trashure is designed to help us with plastic waste management and help us to separate the plastic based on its type. Our team aims to tackle the problem of improper waste management, specifically in the identification and segregation of plastic waste. Traditional waste management practices often involve manual segregation, which is time-consuming and prone to errors.
 
+The research questions that we aim to address are: Can we develop a mobile application that can accurately identify and segregate plastic waste? Our background research has shown that many existing waste management applications focus on recycling, but there is a gap in identifying and segregating waste accurately. Additionally, there is a need to incentivize consumers to participate actively in waste management practices. By developing an application that can accurately identify and segregate plastic waste, we hope to promote proper waste management practices and reduce environmental pollution. Our team wants to address this issue because we want to preserve the ocean's sustainability, which will ultimately have positive impacts on humans as well.
 
 #### Main Purpose
 ```Creating a mobile application that provides a waste scanning feature, allowing users to sell their waste and profit from it. This will ultimately motivate people to sort and recycle their waste, leading to a reduction in waste pollution in Indonesia.```
