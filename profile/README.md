@@ -35,7 +35,7 @@ Aplikasi ini dilatar belakangi dengan adanya isu sampah yang sangat meresahkan b
 
 ### Fitur Tambahan Android
 - Menggunakan Fitur Camera
-- 
+- Fitur Google Maps
 
 ## Contributors ✨
 Thanks goes to these wonderful people
