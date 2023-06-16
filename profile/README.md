@@ -3,10 +3,10 @@
 
 ## _Product-Based Capstone_
 
-### Tema:
+### Theme:
 Water, Forest, & Natural Resource
 
-### Nama Aplikasi:
+### Application Name:
 Trashure
 
 #### Background :
@@ -17,7 +17,7 @@ The research questions that we aim to address are: Can we develop a mobile appli
 #### Main Purpose
 ```Creating a mobile application that provides a waste scanning feature, allowing users to sell their waste and profit from it. This will ultimately motivate people to sort and recycle their waste, leading to a reduction in waste pollution in Indonesia.```
 
-### Semua Fitur Aplikasi
+### All Application Feature
 - Login
 - Register
 - News List
@@ -29,13 +29,13 @@ The research questions that we aim to address are: Can we develop a mobile appli
 - Profile
 - Marketplace
 
-### Fitur Wajib Aplikasi
+### Mandatory Feature
 - Login
 - Register
 - Scan Trash
 - Sell Trash
 
-### Fitur Tambahan Android
+### Additional Android Feature
 - Camera Feature to Scan
 - Google Maps Feature to pick Address
 
